@@ -1,0 +1,34 @@
+
+Comando para crear un ambiente nuevo :
+
+    conda create -n [nombre paquete]  python= [version python]
+
+Comando para activar el ambiente 
+
+   conda activate [nombre ambiente]
+
+Comando para eliminar ambiente 
+
+   conda remove  [ nombre ambiente]
+
+
+Git
+
+git-init
+
+git config --global user.name Dagon
+
+git remote add origin https://github.com/Dagon8523/machine_learning_20_04_2024.git
+
+git branch -M master
+
+
+paquetes basicos para trabajar
+
+ pip install pandas
+
+ pip install numpy
+
+ pip install scikit-learn 
+
+ pip install matplotlib
